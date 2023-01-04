@@ -1,5 +1,5 @@
 # Incrementing Counter
 
-<!-- ![Image](1.gif) -->
+![Image](1.png)
 
 
